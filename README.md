@@ -1,3 +1,6 @@
+### cloudflare 明文禁止：优选IP 和 CF代理节点。 使用本服务造成账号封禁，本人概不负责。 2024年12月16日前充值的用户可全额退款。 来源: https://www.landiannews.com/archives/107113.html  --update 2024.12.16
+
+
 ### 增加dddb/cf2dns docker镜像  --update 2024.6.4
 
 > 使用方法
@@ -140,3 +143,5 @@ python cf2dns.py
 > 3.为什么收费？ 这个标价我也根本不指望赚钱，甚至不够我国内一台VDS的钱。
 > 
 > ★ 如果当前DNSPod有移动、联通、电信线路的解析将会覆盖掉
+> 
+> ★ cloudflare 明文禁止：优选IP 和 CF代理节点。 使用本服务造成账号封禁，本人概不负责。 2024年12月16日前充值的用户可全额退款。 https://www.landiannews.com/archives/107113.html  --update 2024.12.16
